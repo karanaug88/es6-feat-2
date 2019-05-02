@@ -6,7 +6,8 @@
     "webpack": "^1.12.6",
     "webpack-dev-server": "^3.1.11",
     "copy-webpack-plugin": "^0.2.0",
-    "babel-core": "6.26.3"
+    "babel-core": "6.26.3",
+    "eslint-plugin-prettier": "3.0.0"
   },
   "dependencies": {
     "babel-core": "^6.17.0",
